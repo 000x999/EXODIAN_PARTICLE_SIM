@@ -16,8 +16,8 @@ A 2D particle simulator written in C++ using Raylib. <br>The simulator features 
 - Semi realistic fluid simulation using particle collision vector rendering.
 <br><br><br>
 ## How It Works:
-- A comprehensive and in depth analysis of my particle simulator is available in a PDF format written in LaTeX.
-- Link: [Comprehensive and in depth analysis](https://github.com/000x999/Exodian_Particle_Sim/blob/main/Particle_Simulator_Analysis_000x999.pdf)
+- [A Comprehensive and in depth analysis of my particle simulator is available in a PDF format written in LaTeX.](https://github.com/000x999/Exodian_Particle_Sim/blob/main/Particle_Simulator_Analysis_000x999.pdf).
+
 
 ## Requirements
 - C++11 or later
